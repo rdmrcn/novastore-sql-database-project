@@ -61,12 +61,5 @@ The project includes SQL queries for:
 
 ## View
 
-A view named `vw_SiparisOzet` was created to display customer name, order date, product name, and quantity in a single query result.
+![Uploading Screenshot 2026-06-18 235546.png…]()
 
-## Files
-
-```text
-RehaDemircan_NovaStore_Proje.sql
-RehaDemircan_NovaStore_Proje.docx
-RehaDemircan_NovaStore_Proje.png
-NovaStoreDB.bak
