@@ -59,7 +59,4 @@ The project includes SQL queries for:
 - Calculating total revenue by customer
 - Calculating how many days have passed since each order
 
-## View
-
-![Uploading Screenshot 2026-06-18 235546.png…]()
 
